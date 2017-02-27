@@ -117,7 +117,7 @@ namespace Demo
 
         private static void OnIsExpandedChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
         {
-            throw new NotImplementedException();
+            // TODO
         }
     }
 }
